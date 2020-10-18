@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Text;
 using UnityEngine;
 
 public class Mover : MonoBehaviour
@@ -25,8 +26,8 @@ public class Mover : MonoBehaviour
             playerr.transform.position = (new Vector2(-5, 0));
         }
         anim.SetBool("Ground", grounded);
-        anim.SetFloat("speed", Mathf.Abs(r2.velocity.x));
-
+        //anim.SetFloat("speed", Mathf.Abs(r2.velocity.x));
+        
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
             if (grounded)
@@ -44,14 +45,14 @@ public class Mover : MonoBehaviour
                     r2.AddForce(Vector2.up * jumpPow * 0.8f);
                 }
             }
-
         }
     }
 
     void FixedUpdate()
     {
         float h = Input.GetAxis("Horizontal");
-        r2.AddForce((Vector2.right) * speed * h);
+        anim.SetFloat("speed", 2);
+        r2.transform.Translate(Vector2.right * h/10f);
 
         if (r2.velocity.x > maxspeed)
             r2.velocity = new Vector2(maxspeed, r2.velocity.y);
