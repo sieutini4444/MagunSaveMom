@@ -7,6 +7,7 @@ public class HaveSword : MonoBehaviour
 {
     public Text textYouWin;
     public GameObject sword;
+    public Mover Player;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,7 @@ public class HaveSword : MonoBehaviour
         if (collision.CompareTag("Player")) {
             textYouWin.enabled = true;
             sword.SetActive(false);
+            Player.anim.SetBool("sword", true);
         }
     }
 }

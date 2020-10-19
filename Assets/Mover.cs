@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using UnityEngine;
 
@@ -26,15 +27,14 @@ public class Mover : MonoBehaviour
             playerr.transform.position = (new Vector2(-5, 0));
         }
         anim.SetBool("Ground", grounded);
-        //anim.SetFloat("speed", Mathf.Abs(r2.velocity.x));
-        
+
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
             if (grounded)
             {
                 grounded = false;
                 doublejump = true;
-                r2.AddForce(Vector2.up * jumpPow);         
+                r2.AddForce(Vector2.up * jumpPow);
             }
             else
             {
@@ -51,21 +51,22 @@ public class Mover : MonoBehaviour
     void FixedUpdate()
     {
         float h = Input.GetAxis("Horizontal");
-        anim.SetFloat("speed", 2);
         r2.transform.Translate(Vector2.right * h/10f);
+        //r2.AddForce(Vector2.right*h*speed);
+        if (h!=0) {
+            anim.SetFloat("speed", 2);
+        } else anim.SetFloat("speed", 0);
 
         if (r2.velocity.x > maxspeed)
             r2.velocity = new Vector2(maxspeed, r2.velocity.y);
         if (r2.velocity.x < -maxspeed)
             r2.velocity = new Vector2(-maxspeed, r2.velocity.y);
 
-        if (h > 0 && !faceright)
-        {
+        if (h > 0 && !faceright){
             Flip();
         }
 
-        if (h < 0 && faceright)
-        {
+        if (h < 0 && faceright){
             Flip();
         }
     }

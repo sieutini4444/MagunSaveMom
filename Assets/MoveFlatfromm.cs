@@ -7,7 +7,6 @@ public class MoveFlatfromm : MonoBehaviour
     public Transform Pos1, Pos2;
     public float speed;
     public Transform startPos;
-    public Mover playerr;
 
     Vector3 nextPos;
     // Start is called before the first frame update
@@ -36,7 +35,7 @@ public class MoveFlatfromm : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.CompareTag("Player") && (playerr.grounded==true))
+        if (collision.collider.CompareTag("Player"))
         {
             collision.transform.parent = this.transform;
         }
