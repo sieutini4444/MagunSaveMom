@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AutoRotate.cs" />
+    <Compile Include="Assets\FireMove.cs" />
     <Compile Include="Assets\Grounded.cs" />
     <Compile Include="Assets\HaveSword.cs" />
     <Compile Include="Assets\MainMenu.cs" />

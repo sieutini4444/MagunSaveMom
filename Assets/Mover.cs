@@ -13,12 +13,17 @@ public class Mover : MonoBehaviour
     public Rigidbody2D r2;
     public Animator anim;
 
+    public GameObject fire;
+    public Transform fireSp;
+
     // Use this for initialization
     void Start()
     {
         r2 = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
     }
+
+
 
     // Update is called once per frame
     void Update()
@@ -47,12 +52,28 @@ public class Mover : MonoBehaviour
             }
         }
     }
-
     void FixedUpdate()
     {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            anim.SetBool("isAttack", true);
+        }
+        else {
+            anim.SetBool("isAttack", false);
+        }
+
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            anim.SetBool("isSkill", true);
+        }
+        else
+        {
+            anim.SetBool("isSkill", false);
+        }
+
         float h = Input.GetAxis("Horizontal");
         r2.transform.Translate(Vector2.right * h/10f);
-        //r2.AddForce(Vector2.right*h*speed);
+  
         if (h!=0) {
             anim.SetFloat("speed", 2);
         } else anim.SetFloat("speed", 0);
@@ -70,7 +91,6 @@ public class Mover : MonoBehaviour
             Flip();
         }
     }
-
     public void Flip()
     {
         faceright = !faceright;
