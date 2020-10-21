@@ -893,6 +893,36 @@ Transform:
   m_Father: {fileID: 1372553438}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &215415957
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 215415958}
+  m_Layer: 0
+  m_Name: FireSp2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &215415958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 215415957}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 1.3699951, y: 0.1, z: -0.19921875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1026956104}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &232018976
 GameObject:
   m_ObjectHideFlags: 0
@@ -5345,7 +5375,9 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 153.8, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1147677280}
+  - {fileID: 215415958}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -5417,8 +5449,11 @@ MonoBehaviour:
   playerr: {fileID: 1026956101}
   r2: {fileID: 0}
   anim: {fileID: 0}
-  fire: {fileID: 5448652419413752215, guid: b2d063b03013d3341aa0057c6d8537f6, type: 3}
-  fireSp: {fileID: 0}
+  fire: {fileID: 1214859722930045208, guid: 2fe9fefecccc55c4eaca885e55f3d674, type: 3}
+  fire2: {fileID: 8757267505209318909, guid: 15bdd02d008b9e341836f6fafc0196a1, type: 3}
+  fireSp: {fileID: 1147677280}
+  fireSp2: {fileID: 215415958}
+  fireRate: 0.5
 --- !u!114 &1026956108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6915,6 +6950,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1027857332}
   m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1147677279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1147677280}
+  m_Layer: 0
+  m_Name: FireSp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1147677280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147677279}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.3699951, y: 0.1, z: -0.19921875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1026956104}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1147813522
 GameObject:
@@ -9041,7 +9106,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502058254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 153.9467, y: 0, z: -10}
+  m_LocalPosition: {x: 153.9463, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 178824473}
@@ -12860,6 +12925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1941804642}
   - component: {fileID: 1941804643}
+  - component: {fileID: 1941804645}
   m_Layer: 0
   m_Name: Level one
   m_TagString: Untagged
@@ -12875,8 +12941,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1941804641}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.6, y: -0.01, z: 5.457891}
-  m_LocalScale: {x: 3, y: 3.1499999, z: 3}
+  m_LocalPosition: {x: 0.54, y: 0.077, z: 5.457891}
+  m_LocalScale: {x: 3.0417838, y: 3.193873, z: 3.0417838}
   m_Children: []
   m_Father: {fileID: 1502058257}
   m_RootOrder: 1
@@ -12931,6 +12997,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1941804645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1941804641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a55e11be58187f4ea33ccb2bd9d4258, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1949973160
 GameObject:
   m_ObjectHideFlags: 0

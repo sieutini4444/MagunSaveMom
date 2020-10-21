@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Flatform
   - Sword
+  - Fires
+  - Bord
   layers:
   - Default
   - TransparentFX

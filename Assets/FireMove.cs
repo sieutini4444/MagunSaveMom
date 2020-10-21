@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class FireMove : MonoBehaviour
 {
-    public GameObject playerr;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,6 +13,6 @@ public class FireMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector2.right*playerr.transform.localScale.x/5f);
+        transform.Translate(Vector2.right/10f);
     }
 }

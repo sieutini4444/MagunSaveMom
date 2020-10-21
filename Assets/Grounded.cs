@@ -20,16 +20,25 @@ public class Grounded : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        player.grounded = true;
+        if (!collision.CompareTag("Bord"))
+        {
+            player.grounded = true;
+        }    
     }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        player.grounded = true;
+        if (!collision.CompareTag("Bord"))
+        {
+            player.grounded = true;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        player.grounded = false;
+        if (!collision.CompareTag("Bord"))
+        {
+            player.grounded = false;
+        }
     }
 }

@@ -13,8 +13,10 @@ public class Mover : MonoBehaviour
     public Rigidbody2D r2;
     public Animator anim;
 
-    public GameObject fire;
-    public Transform fireSp;
+    public GameObject fire,fire2;
+    public Transform fireSp,fireSp2;
+    public float fireRate;
+    private float timeRate;
 
     // Use this for initialization
     void Start()
@@ -22,9 +24,6 @@ public class Mover : MonoBehaviour
         r2 = gameObject.GetComponent<Rigidbody2D>();
         anim = gameObject.GetComponent<Animator>();
     }
-
-
-
     // Update is called once per frame
     void Update()
     {
@@ -65,10 +64,32 @@ public class Mover : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.S))
         {
             anim.SetBool("isSkill", true);
+            if (faceright && Time.time > timeRate && anim.GetBool("sword")==true)
+            {
+                timeRate = Time.time + fireRate;
+                Instantiate(fire, fireSp.position, fireSp.rotation);
+            }
+            else
+            {
+                if (Time.time > timeRate && anim.GetBool("sword") == true)
+                {
+                    timeRate = Time.time + fireRate;
+                    Instantiate(fire2, fireSp2.position, fireSp2.rotation);
+                }
+            }
         }
         else
         {
             anim.SetBool("isSkill", false);
+        }
+
+        if (Input.GetKeyDown(KeyCode.D))
+        {
+            anim.SetBool("isStrike", true);
+        }
+        else
+        {
+            anim.SetBool("isStrike", false);
         }
 
         float h = Input.GetAxis("Horizontal");
@@ -86,7 +107,6 @@ public class Mover : MonoBehaviour
         if (h > 0 && !faceright){
             Flip();
         }
-
         if (h < 0 && faceright){
             Flip();
         }
