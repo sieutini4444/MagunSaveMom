@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 3ab32fa967ceff840a642cf1b8297bec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5087339453575985402
+    second: Spelunker-jump20
+  - first:
+      213: 5195294483456772024
+    second: Spelunker-jump21
+  - first:
+      213: 4483473429587746678
+    second: Spelunker-jump210
+  - first:
+      213: -3822820642707691665
+    second: Spelunker-jump211
+  - first:
+      213: 7473540230331747610
+    second: Spelunker-jump212
+  - first:
+      213: 3802379259011583802
+    second: Spelunker-jump213
+  - first:
+      213: 6417059081726310864
+    second: Spelunker-jump22
+  - first:
+      213: 7673477706821142711
+    second: Spelunker-jump23
+  - first:
+      213: -3564086477279415853
+    second: Spelunker-jump24
+  - first:
+      213: 1063729512504110543
+    second: Spelunker-jump25
+  - first:
+      213: -7033615510113213699
+    second: Spelunker-jump26
+  - first:
+      213: -8605851852819652641
+    second: Spelunker-jump27
+  - first:
+      213: -5973154737687563118
+    second: Spelunker-jump28
+  - first:
+      213: 7973241017530798766
+    second: Spelunker-jump29
+  - first:
+      213: 7423767903060081557
+    second: Spelunker-walk0
+  - first:
+      213: -7813805238501503545
+    second: Spelunker-walk1
+  - first:
+      213: 7676646561611568540
+    second: Spelunker-walk10
+  - first:
+      213: -7532632126303496828
+    second: Spelunker-walk11
+  - first:
+      213: -5286633773175378721
+    second: Spelunker-walk12
+  - first:
+      213: 3334332810825758515
+    second: Spelunker-walk13
+  - first:
+      213: 5034033956588331305
+    second: Spelunker-walk14
+  - first:
+      213: 7158583033369835733
+    second: Spelunker-walk15
+  - first:
+      213: 651952126799965218
+    second: Spelunker-walk16
+  - first:
+      213: 8911560924225981447
+    second: Spelunker-walk17
+  - first:
+      213: -941670153130829499
+    second: Spelunker-walk18
+  - first:
+      213: -6755987206278695985
+    second: Spelunker-walk19
+  - first:
+      213: -5335761826515084339
+    second: Spelunker-walk2
+  - first:
+      213: 6999231419325313072
+    second: Spelunker-walk20
+  - first:
+      213: 5854486668346727338
+    second: Spelunker-walk21
+  - first:
+      213: -4006929271886663523
+    second: Spelunker-walk22
+  - first:
+      213: 6173771291972854478
+    second: Spelunker-walk23
+  - first:
+      213: -8839602565427106064
+    second: Spelunker-walk24
+  - first:
+      213: 2170770777932640300
+    second: Spelunker-walk25
+  - first:
+      213: -5581806924921742520
+    second: Spelunker-walk26
+  - first:
+      213: -6453271588516103837
+    second: Spelunker-walk3
+  - first:
+      213: 8420065809346313154
+    second: Spelunker-walk4
+  - first:
+      213: 3309650571312020749
+    second: Spelunker-walk5
+  - first:
+      213: -6009078130257585780
+    second: Spelunker-walk6
+  - first:
+      213: -2050207357468344703
+    second: Spelunker-walk7
+  - first:
+      213: 2530627953085050997
+    second: Spelunker-walk8
+  - first:
+      213: 146040318396548710
+    second: Spelunker-walk9
+  - first:
+      213: 5958071582149895314
+    second: Spelunker-idle0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spelunker-jump20
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60706c988b32669b0800000000000000
+      internalID: -5087339453575985402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump21
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7ccfd8ec4691840800000000000000
+      internalID: 5195294483456772024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump210
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fda7a645f783e30800000000000000
+      internalID: 4483473429587746678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump211
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67a06f21ec92fac0800000000000000
+      internalID: -3822820642707691665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump212
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dc3833e3957b760800000000000000
+      internalID: 7473540230331747610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump213
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fc2ba4ac3c4c430800000000000000
+      internalID: 3802379259011583802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1144
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bdfc5c39fd0950800000000000000
+      internalID: 6417059081726310864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump23
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b804fa815bad7a60800000000000000
+      internalID: 7673477706821142711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump24
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1bcf47b32d98ec0800000000000000
+      internalID: -3564086477279415853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump25
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd28e11b5023ce00800000000000000
+      internalID: 1063729512504110543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2260195f3936e90800000000000000
+      internalID: -7033615510113213699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump27
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1c0be55fd19880800000000000000
+      internalID: -8605851852819652641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f0b7c9671b1da0800000000000000
+      internalID: -5973154737687563118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-jump29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1596
+        width: 271
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25f7e1674a6ae60800000000000000
+      internalID: 7973241017530798766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk0
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bb7d43395860760800000000000000
+      internalID: 7423767903060081557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk1
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd080fe889cf8390800000000000000
+      internalID: -7813805238501503545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d41b006de88a60800000000000000
+      internalID: 7676646561611568540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4851cff9df6b67790800000000000000
+      internalID: -7532632126303496828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc6c44d79a12a6b0800000000000000
+      internalID: -5286633773175378721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f230860ee54e20800000000000000
+      internalID: 3334332810825758515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921a3b9463b7cd540800000000000000
+      internalID: 5034033956588331305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b52f4755685360800000000000000
+      internalID: 7158583033369835733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk16
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce87051033c0900800000000000000
+      internalID: 651952126799965218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk17
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccdb2f1793cab70800000000000000
+      internalID: 8911560924225981447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk18
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499c032cf38ee2f0800000000000000
+      internalID: -941670153130829499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk19
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3bcae3e69ed32a0800000000000000
+      internalID: -6755987206278695985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk2
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb9a7c83e093f5b0800000000000000
+      internalID: -5335761826515084339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03073a174e3422160800000000000000
+      internalID: 6999231419325313072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab11114b905f3150800000000000000
+      internalID: 5854486668346727338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b41d8e078468c0800000000000000
+      internalID: -4006929271886663523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2eb8ea744ada550800000000000000
+      internalID: 6173771291972854478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk24
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fee51c0d4c635580800000000000000
+      internalID: -8839602565427106064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk25
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2039737580202e10800000000000000
+      internalID: 2170770777932640300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk26
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 106
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b593bec207982b0800000000000000
+      internalID: -5581806924921742520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk3
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369706f5eaf5176a0800000000000000
+      internalID: -6453271588516103837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbbf7ffd351ad470800000000000000
+      internalID: 8420065809346313154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk5
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db8b9c8ad3eed20800000000000000
+      internalID: 3309650571312020749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c899d6a27477b9ca0800000000000000
+      internalID: -6009078130257585780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ef43655433c83e0800000000000000
+      internalID: -2050207357468344703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570fe4a27b89e1320800000000000000
+      internalID: 2530627953085050997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-walk9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66649e455e6d60200800000000000000
+      internalID: 146040318396548710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spelunker-idle0
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1715
+        width: 119
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294e46869825fa250800000000000000
+      internalID: 5958071582149895314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

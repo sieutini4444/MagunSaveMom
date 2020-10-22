@@ -63,6 +63,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\2D-CavesPack\Scripts\CameraFollow.cs" />
+    <Compile Include="Assets\2D-CavesPack\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\AutoDetroys.cs" />
     <Compile Include="Assets\AutoRotate.cs" />
     <Compile Include="Assets\FireMove.cs" />

@@ -22,4 +22,5 @@ public class AutoDetroys : MonoBehaviour
             Debug.Log("1");
         }
     }
+   
 }
