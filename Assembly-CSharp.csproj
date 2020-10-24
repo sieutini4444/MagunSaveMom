@@ -68,9 +68,11 @@
     <Compile Include="Assets\AutoDetroys.cs" />
     <Compile Include="Assets\AutoRotate.cs" />
     <Compile Include="Assets\FireMove.cs" />
+    <Compile Include="Assets\FireMove2.cs" />
     <Compile Include="Assets\Grounded.cs" />
     <Compile Include="Assets\HaveSword.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\MatMang.cs" />
     <Compile Include="Assets\MoveFlatfromm.cs" />
     <Compile Include="Assets\Mover.cs" />
     <Compile Include="Assets\QPathFinder\Sample\Scripts\MouseClickDemo.cs" />

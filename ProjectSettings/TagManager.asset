@@ -8,6 +8,8 @@ TagManager:
   - Sword
   - Fires
   - Bord
+  - hp
+  - Monster
   layers:
   - Default
   - TransparentFX

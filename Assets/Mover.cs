@@ -12,11 +12,14 @@ public class Mover : MonoBehaviour
     public GameObject playerr;
     public Rigidbody2D r2;
     public Animator anim;
+    public GameObject boxAttack;
 
     public GameObject fire,fire2;
     public Transform fireSp,fireSp2;
     public float fireRate;
     private float timeRate;
+
+    public float m,k;
 
     // Use this for initialization
     void Start()
@@ -55,10 +58,19 @@ public class Mover : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.A))
         {
-            anim.SetBool("isAttack", true);
+            if (anim.GetBool("sword") == true)
+            {
+                anim.SetBool("isAttack", true);
+                boxAttack.SetActive(true);
+                k = Time.time;
+            }
         }
         else {
             anim.SetBool("isAttack", false);
+            if (Time.time == k + 0.5) {
+                boxAttack.SetActive(false);
+            }
+            
         }
 
         if (Input.GetKeyDown(KeyCode.S))
@@ -85,11 +97,26 @@ public class Mover : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.D))
         {
-            anim.SetBool("isStrike", true);
+            if (anim.GetBool("sword")==true)
+            {
+                if (faceright)
+                {
+                    m = 1;
+                }
+                else m = -1;
+                anim.SetBool("isStrike", true);
+                r2.AddForce(new Vector2(m,0)*2000f);
+                boxAttack.SetActive(true);
+                k = Time.time;
+            }
         }
         else
         {
             anim.SetBool("isStrike", false);
+            if (Time.time > k + 0.5f)
+            {
+                boxAttack.SetActive(false);
+            }
         }
 
         float h = Input.GetAxis("Horizontal");
