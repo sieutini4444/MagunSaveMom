@@ -10,6 +10,7 @@ TagManager:
   - Bord
   - hp
   - Monster
+  - Win
   layers:
   - Default
   - TransparentFX

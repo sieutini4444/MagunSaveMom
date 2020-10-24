@@ -26,14 +26,13 @@ public class MatMang : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag==("Monster") )
+        if (collision.gameObject.tag == ("Monster"))
         {
             if (!anim.GetBool("isAttack") && !anim.GetBool("isStrike"))
             {
                 if (textHP.text.Length >= 1)
                 {
                     textHP.text = textHP.text.Substring(1);
-                    StartCoroutine(fall(2));
                 }
                 else
                 {
@@ -46,7 +45,12 @@ public class MatMang : MonoBehaviour
                 collision.gameObject.SetActive(false);
             }
         }
-        else { }
+        if (collision.gameObject.tag == "Win")
+        {
+            textYouWin.gameObject.SetActive(true);
+            textYouWin.text = "VICTORY";
+            collision.gameObject.SetActive(false);
+        }
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -54,12 +58,5 @@ public class MatMang : MonoBehaviour
         {
             collision.gameObject.SetActive(false);
         }
-    }
-
-    IEnumerator fall(int timedelay)
-    {
-        yield return new WaitForSeconds(timedelay);
-        yield return 0;
-
-    }
+    } 
 }
