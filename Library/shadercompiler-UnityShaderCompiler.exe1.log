@@ -1,2 +1,4 @@
 Base path: 'H:/unity/Editor/Data', plugins path 'H:/unity/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+
+Quitting shader compiler process
