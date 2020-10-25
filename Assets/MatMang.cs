@@ -40,18 +40,17 @@ public class MatMang : MonoBehaviour
                     textYouWin.text = "YOU LOSE";
                 }
             }
-            else
-            {
-                collision.gameObject.SetActive(false);
-            }
         }
         if (collision.gameObject.tag == "Win")
         {
             textYouWin.gameObject.SetActive(true);
-            textYouWin.text = "VICTORY";
+           // textYouWin.text = "VICTORY";
+            textYouWin.enabled = true;
             collision.gameObject.SetActive(false);
+            Debug.Log(textYouWin.text.ToString());
         }
     }
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Monster"))
@@ -59,4 +58,5 @@ public class MatMang : MonoBehaviour
             collision.gameObject.SetActive(false);
         }
     } 
+    
 }

@@ -68,13 +68,16 @@ public class Mover : MonoBehaviour
             }
         }
         else {
-            anim.SetBool("isAttack", false);
-            if (Time.time == k + 0.5) {
+         
+                anim.SetBool("isAttack", false);
                 boxAttack.SetActive(false);
-            }
-            
+        }/*
+        if (Time.time >= k + 0.3f)
+        {
+            anim.SetBool("isAttack", false);
+            boxAttack.SetActive(false);
         }
-
+        */
         if (Input.GetKey(KeyCode.S))
         {
             anim.SetBool("isSkill", true);
@@ -98,32 +101,24 @@ public class Mover : MonoBehaviour
         }
 
         float vitri = playerr.transform.position.x;
-        if (Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.D) && anim.GetBool("sword") == true)
         {
-            if (anim.GetBool("sword")==true)
-            {
                 if (faceright)
                 {
                     m = 1;
                 }
                 else m = -1;
                 anim.SetBool("isStrike", true);
-                playerr.transform.position=new Vector2(vitri+m,playerr.transform.position.y);
+                playerr.transform.position = new Vector2(vitri + m, playerr.transform.position.y);
                 boxAttack.SetActive(true);
                 k = Time.time;
-            }
         }
-        else
+
+        if (anim.GetBool("isStrike") && Time.time >= k + 0.2f)
         {
             anim.SetBool("isStrike", false);
-            if (Time.time > k + 0.5f)
-            {
-                boxAttack.SetActive(false);
-            }
-        }
-        if (Input.GetKeyUp(KeyCode.D) && boxAttack.active)
-        {
-            playerr.transform.position = new Vector2(vitri-m, playerr.transform.position.y);
+            boxAttack.SetActive(false);
+            playerr.transform.position = new Vector2(vitri - m, playerr.transform.position.y);
         }
 
         float h = Input.GetAxis("Horizontal");
