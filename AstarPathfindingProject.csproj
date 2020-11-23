@@ -380,7 +380,11 @@
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+=======
+      <HintPath>H:/Ninja/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+>>>>>>> parent of d502bcc8... remake scene1
 =======
       <HintPath>H:/Ninja/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
 >>>>>>> parent of d502bcc8... remake scene1
@@ -732,10 +736,17 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+=======
+      <HintPath>H:/Ninja/MagunSaveMomm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>H:/Ninja/MagunSaveMomm/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+>>>>>>> parent of d502bcc8... remake scene1
 =======
       <HintPath>H:/Ninja/MagunSaveMomm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>

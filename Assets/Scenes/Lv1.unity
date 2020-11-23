@@ -929,6 +929,8 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &73854738
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
 =======
 Transform:
   m_ObjectHideFlags: 0
@@ -1399,6 +1401,462 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &94962938
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94962935}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -31.439827, y: 25.177895, z: 0}
+  m_LocalScale: {x: -0.24709895, y: 0.24709895, z: 0.24709895}
+  m_Children: []
+  m_Father: {fileID: 2001325844}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+--- !u!1 &91912536
+=======
+--- !u!1 &109573286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 109573288}
+  - component: {fileID: 109573287}
+  m_Layer: 0
+  m_Name: tileset 1_41
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &109573287
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109573286}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 2517392924736688999, guid: c8466395c494b8a4c820d0cb9391235e,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.64, y: 0.48}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &109573288
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109573286}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.770004, y: -5.02, z: 13.1779995}
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_Children: []
+  m_Father: {fileID: 1986342903}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &114555090
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 114555091}
+  - component: {fileID: 114555092}
+  m_Layer: 0
+  m_Name: Ground-Cap-Right (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &114555091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 114555090}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.570923, y: 1.7088242, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_RootOrder: 77
+=======
+  m_RootOrder: 258
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &114555092
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_GameObject: {fileID: 91912536}
+=======
+  m_GameObject: {fileID: 114555090}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 0
+  m_Size: {x: 7.5, y: 6.64}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+--- !u!1 &94962935
+=======
+--- !u!1001 &118725818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1987445163}
+    m_Modifications:
+    - target: {fileID: 100002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_Name
+      value: Crystal02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0880898
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.262329
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -22.49229
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.34207
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_RootOrder
+      value: 265
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+--- !u!4 &118725819 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20,
+    type: 3}
+  m_PrefabInstance: {fileID: 118725818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &124372902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 124372904}
+  - component: {fileID: 124372903}
+  m_Layer: 0
+  m_Name: Ground-Fill01 (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &124372903
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124372902}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 2
+  m_Size: {x: 15.063049, y: 6.64}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &124372904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124372902}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 203.279, y: -48.69, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &142062866
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 94962938}
+  - component: {fileID: 94962937}
+  - component: {fileID: 94962936}
+  m_Layer: 0
+  m_Name: Dark_Ninja_Bowser
+  m_TagString: Monster
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &94962936
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_GameObject: {fileID: 94962935}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.047293186}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4, y: 3.73}
+    newSize: {x: 4, y: 3.73}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4, y: 3.6354136}
+  m_EdgeRadius: 0
+--- !u!212 &94962937
+=======
+  m_GameObject: {fileID: 142062866}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.570923, y: 1.7088242, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &142062868
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 94962935}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 5
+  m_Sprite: {fileID: 21300000, guid: 4cecad78671010546b2e39edd82f3ddf, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4, y: 3.73}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &70095543
 GameObject:
@@ -1462,8 +1920,13 @@ Transform:
   m_LocalPosition: {x: -31.439827, y: 25.177895, z: 0}
   m_LocalScale: {x: -0.24709895, y: 0.24709895, z: 0.24709895}
   m_Children: []
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Father: {fileID: 2001325844}
   m_RootOrder: 0
+=======
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 251
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &109573286
 GameObject:
@@ -1581,7 +2044,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 258
+=======
+  m_RootOrder: 255
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &114555092
 SpriteRenderer:
@@ -1729,7 +2196,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &124372903
+=======
+--- !u!4 &149779739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 149779738}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 54.710922, y: -10.381176, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 147
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &149779740
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1779,12 +2264,84 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &124372904
+=======
+--- !u!1 &168627933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 168627935}
+  - component: {fileID: 168627934}
+  m_Layer: 0
+  m_Name: Ground-Fill02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &168627934
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 168627933}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: cc2fa2bfb6fdd734faf5af84536f88b8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 2
+  m_Size: {x: 8.799694, y: 6.86}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &168627935
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 124372902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 203.279, y: -48.69, z: 0}
@@ -1794,6 +2351,17 @@ Transform:
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &142062866
+=======
+  m_GameObject: {fileID: 168627933}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 208.953, y: -48.67, z: 0.69}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &170917044
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1822,7 +2390,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 15
+=======
+  m_RootOrder: 178
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &142062868
 SpriteRenderer:
@@ -1874,7 +2446,80 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &146184952
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+--- !u!1001 &173764787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2062468877867353282, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Trap (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 170.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 46e1f9d8262081b478bff19ba7c8c0eb, type: 3}
+--- !u!1 &177976680
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
@@ -1979,7 +2624,63 @@ Transform:
   m_RootOrder: 255
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &142062866
+=======
+--- !u!114 &178824474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 178824472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 0}
+  m_Follow: {fileID: 1026956104}
+  m_Lens:
+    FieldOfView: 60
+    OrthographicSize: 6.51
+    NearClipPlane: 0.01
+    FarClipPlane: 1000.33
+    Dutch: 0
+    LensShift: {x: 0, y: 0}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 1651078577}
+--- !u!114 &178824475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 178824472}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fba25a5cd15594e8f050a11e386c80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ConfineMode: 0
+  m_BoundingVolume: {fileID: 0}
+  m_BoundingShape2D: {fileID: 1364492221}
+  m_ConfineScreenEdges: 1
+  m_Damping: 0
+--- !u!1 &180195781
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2093,7 +2794,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 251
+=======
+  m_RootOrder: 202
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &146184954
 SpriteRenderer:
@@ -2255,7 +2960,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 147
+=======
+  m_RootOrder: 204
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &149779740
 SpriteRenderer:
@@ -2335,7 +3044,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &168627934
+=======
+--- !u!4 &189865188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189865187}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.043, y: -3.424, z: 102.34207}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 93
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &189865189
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2379,6 +3106,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 1
   m_DrawMode: 2
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Size: {x: 8.799694, y: 6.86}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
@@ -2479,13 +3207,38 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 2
   m_Size: {x: 4.4260135, y: 5.6563177}
+=======
+  m_Size: {x: 26.90904, y: 9.112651}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1001 &173764787
 PrefabInstance:
+=======
+--- !u!1 &197622327
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 197622329}
+  - component: {fileID: 197622328}
+  m_Layer: 0
+  m_Name: tileset 1_32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &197622328
+SpriteRenderer:
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
@@ -4803,6 +5556,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &299550944
 GameObject:
   m_ObjectHideFlags: 0
@@ -4916,6 +5670,8 @@ BoxCollider2D:
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 --- !u!1 &307500484
 GameObject:
   m_ObjectHideFlags: 0
@@ -4999,7 +5755,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 6
+=======
+  m_RootOrder: 9
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 9
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -8437,12 +9197,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
       objectReference: {fileID: 0}
     - target: {fileID: 1814782674485730009, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.77
       objectReference: {fileID: 0}
+=======
+      objectReference: {fileID: 0}
+    - target: {fileID: 1814782674485730009, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.77
+      objectReference: {fileID: 0}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     - target: {fileID: 1814782674673825360, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
         type: 3}
       propertyPath: m_SortingOrder
@@ -8493,11 +9262,15 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 12.220865
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
       objectReference: {fileID: 0}
     - target: {fileID: 1814782675052073744, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.854
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
       objectReference: {fileID: 0}
     - target: {fileID: 1814782675052073744, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
         type: 3}
@@ -8519,6 +9292,19 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 3.19
       objectReference: {fileID: 0}
+=======
+      objectReference: {fileID: 0}
+    - target: {fileID: 1814782675052073744, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7831512
+      objectReference: {fileID: 0}
+    - target: {fileID: 1814782675118284604, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.19
+      objectReference: {fileID: 0}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     - target: {fileID: 1814782675353240099, guid: 4ea4dbf71b4a3b749a9d45de5ee3af4f,
         type: 3}
       propertyPath: m_SortingOrder
@@ -8614,7 +9400,11 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
       value: 4
+=======
+      value: 7
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
       value: 7
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -11720,6 +12510,129 @@ MonoBehaviour:
     type: 3}
   animator: {fileID: 612635047}
 --- !u!1 &615803939
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 615803942}
+  - component: {fileID: 615803941}
+  - component: {fileID: 615803940}
+  m_Layer: 0
+  m_Name: Dark_Ninja_Bowser (12)
+  m_TagString: Monster
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &615803940
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_GameObject: {fileID: 626624988}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 88.32091, y: -2.381176, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 160
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &626624990
+=======
+  m_GameObject: {fileID: 615803939}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.047293186}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4, y: 3.73}
+    newSize: {x: 4, y: 3.73}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4, y: 3.6354136}
+  m_EdgeRadius: 0
+--- !u!212 &615803941
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615803939}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 5
+  m_Sprite: {fileID: 21300000, guid: 4cecad78671010546b2e39edd82f3ddf, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 4, y: 3.73}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &615803942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615803939}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -17.18193, y: 4.9029083, z: 0}
+  m_LocalScale: {x: 0.31070396, y: 0.31070396, z: 0.31070396}
+  m_Children: []
+  m_Father: {fileID: 2001325844}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &624672734
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
@@ -13205,6 +14118,9 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!1 &690436736
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13224,6 +14140,7 @@ GameObject:
   m_IsActive: 1
 --- !u!61 &690436737
 BoxCollider2D:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -13301,11 +14218,14 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 --- !u!4 &690436739
 Transform:
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690436736}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 58.625, y: -4.924, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
@@ -13340,6 +14260,8 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690436736}
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -13450,18 +14372,24 @@ Transform:
   m_GameObject: {fileID: 691588822}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_LocalPosition: {x: 43.06093, y: -23.161175, z: 102.34207}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
   m_RootOrder: 222
 =======
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalPosition: {x: -0.1196576, y: -0.24593815, z: 0}
   m_LocalScale: {x: 0.8547008, y: 1, z: 1}
   m_Children:
   - {fileID: 388310363}
   m_Father: {fileID: 443178087}
   m_RootOrder: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &691588824
@@ -13516,7 +14444,10 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 =======
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 --- !u!1 &698577473
 GameObject:
   m_ObjectHideFlags: 0
@@ -16601,6 +17532,9 @@ BoxCollider2D:
   m_Size: {x: 1.167038, y: 1}
   m_EdgeRadius: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -16949,7 +17883,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &802673369
+=======
+--- !u!4 &806681065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 806681064}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 58.840927, y: -18.091175, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 141
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &806681066
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -16987,9 +17939,14 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 2
   m_Sprite: {fileID: 7724787816996410853, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
+=======
+  m_SortingOrder: 33
+  m_Sprite: {fileID: 21300000, guid: b1e218f370772c84faac96e42a9e33e8, type: 3}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -17145,9 +18102,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1987445163}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 174
 =======
   m_RootOrder: 141
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 174
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &818344868
@@ -17200,6 +18161,7 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 2
   m_Size: {x: 27.53946, y: 4.478127}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -17390,6 +18352,8 @@ SpriteRenderer:
 =======
   m_Size: {x: 27.53946, y: 4.478127}
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -17426,9 +18390,13 @@ Transform:
   m_Father: {fileID: 1987445163}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 194
 =======
   m_RootOrder: 16
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+  m_RootOrder: 189
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 189
@@ -17515,7 +18483,11 @@ Transform:
   m_Father: {fileID: 1987445163}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 108
+=======
+  m_RootOrder: 106
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 106
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -18220,7 +19192,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 7
+=======
+  m_RootOrder: 10
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 10
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -19869,6 +20845,9 @@ GameObject:
   - component: {fileID: 1026956109}
   - component: {fileID: 1026956110}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -22064,6 +23043,9 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 --- !u!4 &1099122443
 Transform:
   m_ObjectHideFlags: 0
@@ -22079,8 +23061,11 @@ Transform:
   m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1109393996
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 =======
 --- !u!1 &1099122440
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
@@ -22090,10 +23075,14 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   - component: {fileID: 1109393998}
   - component: {fileID: 1109393997}
   m_Layer: 0
   m_Name: Ground-Fill01 (4)
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 =======
   - component: {fileID: 1099122443}
   - component: {fileID: 1099122442}
@@ -22101,11 +23090,14 @@ GameObject:
   m_Layer: 0
   m_Name: tileset 1_21
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 =======
 --- !u!61 &1099122441
@@ -22135,12 +23127,19 @@ BoxCollider2D:
   m_Size: {x: 0.840665, y: 0.9632305}
   m_EdgeRadius: 0
 --- !u!212 &1099122442
+=======
+--- !u!212 &1109393997
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1099122440}
+=======
+  m_GameObject: {fileID: 1109393996}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -22173,6 +23172,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Sprite: {fileID: -6297688209136231908, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -22259,6 +23259,11 @@ SpriteRenderer:
   m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
+=======
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_FlipY: 1
   m_DrawMode: 2
   m_Size: {x: 36.46333, y: 6.64}
@@ -22519,6 +23524,7 @@ Transform:
   m_PrefabInstance: {fileID: 1117914364}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1121714659
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22615,6 +23621,103 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1123035162
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  - component: {fileID: 1123035163}
+  - component: {fileID: 1123035164}
+  m_Layer: 0
+  m_Name: Ground-Fill01 (37)
+=======
+  - component: {fileID: 1121714660}
+  - component: {fileID: 1121714661}
+  m_Layer: 0
+  m_Name: Ground-Fill02 (13)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+--- !u!4 &1123035163
+Transform:
+=======
+--- !u!4 &1121714660
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1121714659}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.190918, y: -18.101177, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 66
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1121714661
+SpriteRenderer:
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+  m_GameObject: {fileID: 1121714659}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: cc2fa2bfb6fdd734faf5af84536f88b8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.49, y: 6.86}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1123035162
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -22637,6 +23740,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_GameObject: {fileID: 1123035162}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 2.754, y: -18.321178, z: 102.34207}
@@ -22646,6 +23750,9 @@ Transform:
   m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1123035164
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -22653,6 +23760,7 @@ SpriteRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1121714659}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
@@ -22832,6 +23940,8 @@ SpriteRenderer:
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_GameObject: {fileID: 1123035162}
   m_Enabled: 1
   m_CastShadows: 0
@@ -22876,6 +23986,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &1123167395
@@ -22959,6 +24070,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
@@ -23830,9 +24943,15 @@ Transform:
   m_LocalScale: {x: 0.9, y: 0.9, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 200
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1148807731
+=======
+  m_RootOrder: 56
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!212 &1140795660
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24019,9 +25138,15 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1156976497
+=======
+  m_RootOrder: 171
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -151.30301}
+--- !u!212 &1145838445
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24178,8 +25303,13 @@ Transform:
   m_LocalPosition: {x: 9.67, y: -2.383748, z: 6.6374207}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children: []
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Father: {fileID: 1986342903}
   m_RootOrder: 13
+=======
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 30
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1169498417
 SpriteRenderer:
@@ -24309,8 +25439,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1171793197}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_LocalPosition: {x: 21.216812, y: -8.352647, z: 11.348763}
   m_LocalScale: {x: 3, y: 3, z: 3}
+=======
+  m_LocalPosition: {x: 1.3699951, y: 0.1, z: -0.19921875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Children: []
   m_Father: {fileID: 1027857332}
   m_RootOrder: 0
@@ -24447,11 +25582,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1191450727}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_LocalPosition: {x: 0.35191345, y: -27.881176, z: 102.34207}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
   m_RootOrder: 107
+=======
+  m_LocalPosition: {x: 69.32091, y: -20.631176, z: 102.34207}
+  m_LocalScale: {x: 0.9, y: 0.9, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 200
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1191450729
 SpriteRenderer:
@@ -24584,7 +25727,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &1205201757
+=======
+--- !u!4 &1152766740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1152766737}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -54.04385, y: 23.80303, z: 0}
+  m_LocalScale: {x: -0.24709895, y: 0.24709895, z: 0.24709895}
+  m_Children: []
+  m_Father: {fileID: 2001325844}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1156976495
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24613,7 +25774,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 252
+=======
+  m_RootOrder: 18
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1205201759
 SpriteRenderer:
@@ -24665,7 +25830,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &1209411653
+=======
+--- !u!1001 &1166799126
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1987445163}
+    m_Modifications:
+    - target: {fileID: 100002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_Name
+      value: Crystal02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1393379
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.08128
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.89827
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -19.787235
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.34207
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_RootOrder
+      value: 266
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aca93655777062547a19c3cbe645df20, type: 3}
+--- !u!4 &1166799127 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400002, guid: aca93655777062547a19c3cbe645df20,
+    type: 3}
+  m_PrefabInstance: {fileID: 1166799126}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1169498415
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24857,9 +26105,15 @@ Transform:
   m_LocalScale: {x: 1.5000001, y: 1.5000001, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -14.865001}
 --- !u!212 &1213195258
+=======
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1183718097
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24909,7 +26163,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &1217595987
+=======
+--- !u!1 &1191450727
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24917,22 +26175,51 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - component: {fileID: 1217595989}
   - component: {fileID: 1217595988}
   m_Layer: 0
   m_Name: tileset 1_5
+=======
+  - component: {fileID: 1191450728}
+  - component: {fileID: 1191450729}
+  m_Layer: 0
+  m_Name: Ground-Fill01 (41)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1217595988
+=======
+--- !u!4 &1191450728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191450727}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.35191345, y: -27.881176, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 107
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1191450729
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1217595987}
+=======
+  m_GameObject: {fileID: 1191450727}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -24964,6 +26251,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 0
   m_Sprite: {fileID: -7642695013803092085, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
@@ -24972,11 +26260,21 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.59, y: 0.97}
+=======
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 2
+  m_Size: {x: 10.385996, y: 6.64}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1217595989
 Transform:
   m_ObjectHideFlags: 0
@@ -24992,6 +26290,9 @@ Transform:
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1229266510
+=======
+--- !u!1 &1204336888
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -24999,6 +26300,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - component: {fileID: 1229266512}
   - component: {fileID: 1229266511}
   - component: {fileID: 1229266517}
@@ -25007,18 +26309,46 @@ GameObject:
   - component: {fileID: 1229266513}
   m_Layer: 0
   m_Name: tileset 1_29
+=======
+  - component: {fileID: 1204336889}
+  - component: {fileID: 1204336890}
+  m_Layer: 0
+  m_Name: Ground-Fill02 (15)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1229266511
+=======
+--- !u!4 &1204336889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204336888}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.850922, y: -8.581173, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 76
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1204336890
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1229266510}
+=======
+  m_GameObject: {fileID: 1204336888}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -25050,6 +26380,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 0
   m_Sprite: {fileID: 7724787816996410853, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
@@ -25058,11 +26389,21 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.44, y: 0.86}
+=======
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: cc2fa2bfb6fdd734faf5af84536f88b8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 0
+  m_Size: {x: 7.49, y: 6.86}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1229266512
 Transform:
   m_ObjectHideFlags: 0
@@ -25191,6 +26532,9 @@ BoxCollider2D:
   m_Size: {x: 1.8205516, y: 1.3616276}
   m_EdgeRadius: 0
 --- !u!1 &1235186399
+=======
+--- !u!1 &1205201757
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25198,22 +26542,51 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - component: {fileID: 1235186401}
   - component: {fileID: 1235186400}
   m_Layer: 0
   m_Name: tileset1_30
+=======
+  - component: {fileID: 1205201758}
+  - component: {fileID: 1205201759}
+  m_Layer: 0
+  m_Name: Mite02 (3)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1235186400
+=======
+--- !u!4 &1205201758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1205201757}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.8309174, y: -20.321178, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 252
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1205201759
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1235186399}
+=======
+  m_GameObject: {fileID: 1205201757}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -25245,19 +26618,29 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 1
   m_Sprite: {fileID: 2061524236707233345, guid: cc1b5e25b1f02a74289a8569c42b3ad8,
     type: 3}
+=======
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 40a63667c60900746bddfdf0a741bfe5, type: 3}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Size: {x: 1, y: 1}
+=======
+  m_Size: {x: 6.43, y: 4.01}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1235186401
 Transform:
   m_ObjectHideFlags: 0
@@ -25273,6 +26656,9 @@ Transform:
   m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1238413693
+=======
+--- !u!1 &1209411653
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25280,21 +26666,33 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - component: {fileID: 1238413694}
   - component: {fileID: 1238413695}
   m_Layer: 0
   m_Name: Platform-Small01
+=======
+  - component: {fileID: 1209411654}
+  - component: {fileID: 1209411655}
+  m_Layer: 0
+  m_Name: tileset 1_21 (35)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1238413694
+=======
+--- !u!4 &1209411654
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1238413693}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 37.40091, y: -5.961174, z: 102.34207}
@@ -25304,12 +26702,27 @@ Transform:
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1238413695
+=======
+  m_GameObject: {fileID: 1209411653}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.066971, y: -64.48599, z: 2.7}
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_Children: []
+  m_Father: {fileID: 713676401}
+  m_RootOrder: 35
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1209411655
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1238413693}
+=======
+  m_GameObject: {fileID: 1209411653}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -25341,6 +26754,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: e693d0dc007e97046a6dd2e649f94441, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -25348,6 +26762,16 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 7.82, y: 6.4}
+=======
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -6297688209136231908, guid: c8466395c494b8a4c820d0cb9391235e,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.92, y: 1.11}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -25370,7 +26794,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1238461026
+=======
+--- !u!4 &1212680372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1212680371}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 89.110916, y: -0.48117447, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 244
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1212680373
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25463,9 +26905,15 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1242628194
+=======
+  m_RootOrder: 29
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -14.865001}
+--- !u!212 &1213195258
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -25797,6 +27245,436 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1244367500}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+--- !u!1 &1249483597
+=======
+  m_GameObject: {fileID: 1229266510}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.7502974, y: 0.25081384}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.44, y: 0.86}
+    newSize: {x: 0.44, y: 0.86}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.8205516, y: 1.3616276}
+  m_EdgeRadius: 0
+--- !u!1 &1235186399
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1235186401}
+  - component: {fileID: 1235186400}
+  m_Layer: 0
+  m_Name: tileset1_30
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1235186400
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1235186399}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 2061524236707233345, guid: cc1b5e25b1f02a74289a8569c42b3ad8,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1235186401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1235186399}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 56.26, y: -6.371, z: 0}
+  m_LocalScale: {x: 5.978363, y: 2.3243728, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 28
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1238413693
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1249483599}
+  - component: {fileID: 1249483598}
+  m_Layer: 0
+  m_Name: Ground-Fill01 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+--- !u!212 &1249483598
+=======
+--- !u!4 &1238413694
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1238413693}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 37.40091, y: -5.961174, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.31308204, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 37
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1238413695
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249483597}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+  m_Sprite: {fileID: 21300000, guid: e693d0dc007e97046a6dd2e649f94441, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.82, y: 6.4}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1238461025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1238461027}
+  - component: {fileID: 1238461026}
+  m_Layer: 0
+  m_Name: tilese2t_102
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1238461026
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1238461025}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 662853413356960385, guid: 9076d8324c97e0f4d936fe8609d46379, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1238461027
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1238461025}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 37.596817, y: -9.2126465, z: 11.348763}
+  m_LocalScale: {x: 1, y: 1.92, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1027857332}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1242628192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1242628193}
+  - component: {fileID: 1242628194}
+  m_Layer: 0
+  m_Name: Mite02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1242628193
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242628192}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.340912, y: -10.561176, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 80
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1242628194
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242628192}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 40a63667c60900746bddfdf0a741bfe5, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 0
+  m_Size: {x: 6.43, y: 4.01}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1001 &1244367500
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1987445163}
+    m_Modifications:
+    - target: {fileID: 100000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_Name
+      value: CrystalWall01 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 50.350906
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10.321178
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 102.34207
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_RootOrder
+      value: 217
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.79804206
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.6884122
+      objectReference: {fileID: 0}
+    - target: {fileID: 21200000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ebfec880e00cdd04eabc899af1a54a41, type: 3}
+--- !u!4 &1244367501 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: ebfec880e00cdd04eabc899af1a54a41,
+    type: 3}
+  m_PrefabInstance: {fileID: 1244367500}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1249483597
 GameObject:
   m_ObjectHideFlags: 0
@@ -25853,6 +27731,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -25875,6 +27754,9 @@ Transform:
   m_LocalPosition: {x: 209.55, y: -45.733, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Father: {fileID: 0}
@@ -26844,7 +28726,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 8
+=======
+  m_RootOrder: 11
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 11
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -27381,7 +29267,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 12
+=======
+  m_RootOrder: 15
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 15
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -28086,6 +29976,172 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1378428776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1378428777}
+  - component: {fileID: 1378428778}
+  m_Layer: 0
+  m_Name: tileset 1_21 (36)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1378428777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378428776}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.046982, y: -62.2, z: 2.4}
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_Children: []
+  m_Father: {fileID: 713676401}
+  m_RootOrder: 36
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1378428778
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378428776}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: -6297688209136231908, guid: c8466395c494b8a4c820d0cb9391235e,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.92, y: 1.11}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1380575925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1380575927}
+  - component: {fileID: 1380575926}
+  m_Layer: 0
+  m_Name: Ground-Fill01 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1380575926
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380575925}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 1
+  m_DrawMode: 2
+  m_Size: {x: 103.6784, y: 6.64}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1380575927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380575925}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 236.111, y: -43.58, z: -0.15}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_Children: []
+  m_Father: {fileID: 0}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1386166044
@@ -28143,6 +30199,9 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_SortingOrder: 1
@@ -28646,6 +30705,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -29148,6 +31208,8 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: d2931fba81518714bbe9e1dbbb66c632, type: 3}
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -29189,9 +31251,15 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!212 &1445973905
+=======
+  m_RootOrder: 60
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1405223911
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29270,8 +31338,13 @@ Transform:
   m_LocalPosition: {x: 17.84, y: -2.33, z: 6.5874214}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children: []
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Father: {fileID: 1986342903}
   m_RootOrder: 25
+=======
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 86
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1463601756
 SpriteRenderer:
@@ -29367,7 +31440,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1464865653
+=======
+--- !u!4 &1426303525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1426303524}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 54.840927, y: -26.531178, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 122
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1426303526
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29405,24 +31496,106 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 0
   m_Sprite: {fileID: 662853413356960385, guid: 9076d8324c97e0f4d936fe8609d46379, type: 3}
+=======
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: fb10fa8ae5ce17d429eddec710b75733, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 4.7, y: 4.64}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1435390415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1435390417}
+  - component: {fileID: 1435390416}
+  m_Layer: 0
+  m_Name: tileset 1_12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1435390416
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1435390415}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 6010191103160738017, guid: c8466395c494b8a4c820d0cb9391235e,
+    type: 3}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_Size: {x: 1, y: 1}
+=======
+  m_Size: {x: 0.32, y: 0.55}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1464865654
+=======
+--- !u!4 &1435390417
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1464865652}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 39.678818, y: -8.405646, z: 11.448764}
@@ -29432,6 +31605,17 @@ Transform:
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1467233064
+=======
+  m_GameObject: {fileID: 1435390415}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 39.836815, y: -6.3126464, z: 11.348763}
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_Children: []
+  m_Father: {fileID: 1027857332}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1439518728
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29439,22 +31623,51 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - component: {fileID: 1467233066}
   - component: {fileID: 1467233065}
   m_Layer: 0
   m_Name: tileset 1_29
+=======
+  - component: {fileID: 1439518729}
+  - component: {fileID: 1439518730}
+  m_Layer: 0
+  m_Name: ww (2)
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!212 &1467233065
+=======
+--- !u!4 &1439518729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439518728}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 42.041916, y: -33.943, z: 106}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 181
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1439518730
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_GameObject: {fileID: 1467233064}
+=======
+  m_GameObject: {fileID: 1439518728}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -29486,6 +31699,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_SortingOrder: 0
   m_Sprite: {fileID: 7724787816996410853, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
@@ -29494,11 +31708,21 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.44, y: 0.86}
+=======
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: d2931fba81518714bbe9e1dbbb66c632, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 2
+  m_Size: {x: 46.241203, y: 9.556483}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!4 &1467233066
 Transform:
   m_ObjectHideFlags: 0
@@ -29514,6 +31738,9 @@ Transform:
   m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1471544964
+=======
+--- !u!1 &1445973903
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29542,9 +31769,15 @@ Transform:
   m_LocalScale: {x: 0.2, y: 0.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 187
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.411}
 --- !u!212 &1471544966
+=======
+  m_RootOrder: 45
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!212 &1445973905
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -29886,6 +32119,190 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1488548212
+=======
+  m_RootOrder: 187
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90.411}
+--- !u!212 &1471544966
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488548210}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: 151719f84cab5d14d8e9274e49c0ca95, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 11.449999, y: 7.9613276}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+--- !u!4 &1476526345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1476526343}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 46.56681, y: -8.292646, z: 11.358764}
+  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_Children: []
+  m_Father: {fileID: 1027857332}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1485268188
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1485268189}
+  - component: {fileID: 1485268190}
+  m_Layer: 0
+  m_Name: BG-Layer01-Fill (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1485268189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485268188}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 55.751, y: 10.84, z: 102.34207}
+  m_LocalScale: {x: 0.49999997, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+  m_RootOrder: 280
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1485268190
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1485268188}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: fddb84be0c87b7e47817c3523488397d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 21300000, guid: cb69c952db1d7cb4b8340e066ae34fd8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 2
+  m_Size: {x: 44.733738, y: 20.650002}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1488548210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1488548211}
+  - component: {fileID: 1488548212}
+  m_Layer: 0
+  m_Name: FG-Top-01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1488548211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488548210}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.518402, y: 9.208824, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1488548212
@@ -29939,6 +32356,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 --- !u!4 &1476526345
 Transform:
@@ -30279,7 +32697,11 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_LocalPosition: {x: 282.1421, y: -77.679985, z: -10}
+=======
+  m_LocalPosition: {x: 81.774895, y: -1.8899853, z: -10}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_LocalPosition: {x: 81.774895, y: -1.8899853, z: -10}
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -32760,6 +35182,9 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -33587,6 +36012,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1706314615
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33757,6 +36183,98 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+=======
+--- !u!1 &1710464940
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1706314616}
+  - component: {fileID: 1706314617}
+  m_Layer: 0
+  m_Name: Ground-Ramp01 (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1706314616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706314615}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 48.14, y: 5.21, z: 102.34207}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_RootOrder: 42
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!212 &1710464942
+=======
+  m_RootOrder: 275
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1706314617
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706314615}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21300000, guid: 87aafaae78d495244843259e51b3b777, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.5499997, y: 11.172254}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 --- !u!1 &1710464940
 GameObject:
@@ -35725,6 +38243,121 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+--- !u!60 &1833240813
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833240810}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.48, y: 0.48}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -0.2133609, y: 0.22921883}
+      - {x: -0.24, y: -0.24}
+      - {x: 0.24888083, y: -0.24}
+      - {x: 0.16896702, y: -0.15509367}
+      - {x: 0.0010545328, y: 0.015751347}
+--- !u!1 &1836964748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1836964750}
+  - component: {fileID: 1836964749}
+  m_Layer: 0
+  m_Name: tileset 1_25 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1836964749
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836964748}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 4766699277193409157, guid: c8466395c494b8a4c820d0cb9391235e,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.22}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1836964750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1836964748}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 57.78, y: -4.92, z: 0}
+  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 27
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 --- !u!1001 &1841947802
 PrefabInstance:
@@ -37159,6 +39792,7 @@ SpriteRenderer:
   m_SpriteSortPoint: 0
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1 &1898203351
 GameObject:
   m_ObjectHideFlags: 0
@@ -37241,6 +39875,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
@@ -40351,7 +42987,11 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 125
+=======
+  m_RootOrder: 249
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1956953861
 SpriteRenderer:
@@ -40474,15 +43114,109 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Sprite: {fileID: -7991179690510270672, guid: c8466395c494b8a4c820d0cb9391235e,
     type: 3}
 =======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+  m_Sprite: {fileID: 21300000, guid: aa93f527095fd3b4bb7454c431ffd308, type: 3}
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.48, y: 0.38}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1962627193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1962627194}
+  - component: {fileID: 1962627195}
+  m_Layer: 0
+  m_Name: images (37)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1962627194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962627193}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 69.11, y: 19.747, z: 102.34207}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1987445163}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_RootOrder: 279
+=======
+  m_RootOrder: 125
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1962627195
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962627193}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 8c75da3a2ab3aaa43a19d04b64e27c6f, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 21300000, guid: e7d111aeb74e38d4a8bc967f446e48bb, type: 3}
+=======
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21300000, guid: 8e5bf39eb72e2c741aa7e996f3c17ac0, type: 3}
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 2
+  m_Size: {x: 46.434444, y: 7.073092}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -41445,10 +44179,13 @@ Transform:
   - {fileID: 246607669}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   - {fileID: 114555091}
   - {fileID: 258958148}
   - {fileID: 824812301}
 =======
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
   - {fileID: 1706314616}
@@ -41459,6 +44196,9 @@ Transform:
   - {fileID: 1485268189}
   - {fileID: 1986601348}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -41909,7 +44649,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 11
+=======
+  m_RootOrder: 14
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 14
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -43585,7 +46329,11 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_RootOrder: 9
+=======
+  m_RootOrder: 12
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_RootOrder: 12
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -44227,8 +46975,13 @@ Transform:
   m_Children: []
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
   m_Father: {fileID: 0}
   m_RootOrder: 14
+=======
+  m_Father: {fileID: 1027857332}
+  m_RootOrder: 19
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
   m_Father: {fileID: 1027857332}
   m_RootOrder: 19
@@ -44788,6 +47541,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 --- !u!1001 &4751085278893389273
 =======
 --- !u!1001 &6648082941013227202
@@ -44896,10 +47650,14 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e9f0db2c08ac1648b3efd58100b8d27, type: 3}
 --- !u!1001 &8399776819868961921
+=======
+--- !u!1001 &6648082941013227202
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     m_TransformParent: {fileID: 1502058257}
     m_Modifications:
     - target: {fileID: 6454199518845138213, guid: 1637ccaa93a25544b82df99a7a12be78,
@@ -44921,6 +47679,8 @@ PrefabInstance:
 =======
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     m_TransformParent: {fileID: 1052064904}
     m_Modifications:
     - target: {fileID: 2062468877867353282, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
@@ -44930,6 +47690,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -44939,7 +47702,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
+=======
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -44952,7 +47719,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
+=======
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -44965,6 +47736,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
         type: 3}
       propertyPath: m_LocalRotation.x
@@ -44982,6 +47754,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
 =======
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
@@ -45001,6 +47775,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -45008,6 +47785,7 @@ PrefabInstance:
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
@@ -45019,6 +47797,8 @@ PrefabInstance:
 =======
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
         type: 3}
       propertyPath: m_RootOrder
@@ -45026,6 +47806,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -45035,7 +47818,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
+=======
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -45048,7 +47835,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
+=======
+    - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
@@ -45059,6 +47850,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
     - target: {fileID: 8399776821502195981, guid: 1637ccaa93a25544b82df99a7a12be78,
@@ -45116,6 +47908,8 @@ PrefabInstance:
 =======
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
     - target: {fileID: 6193282126875889943, guid: 46e1f9d8262081b478bff19ba7c8c0eb,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -45140,6 +47934,9 @@ Transform:
   m_PrefabInstance: {fileID: 6648082941013227202}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD:Assets/Scenes/Lv1.unity
+<<<<<<< HEAD:Assets/Scenes/Lv1.unity
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
+=======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Scenes/SampleScene.unity

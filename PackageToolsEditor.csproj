@@ -267,10 +267,17 @@
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+=======
+      <HintPath>H:/Ninja/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>H:/Ninja/MagunSaveMomm/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+>>>>>>> parent of d502bcc8... remake scene1
 =======
       <HintPath>H:/Ninja/MagunSaveMomm/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
@@ -634,6 +641,7 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
@@ -645,6 +653,8 @@
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>E:/DoAnGame/MagunSaveMom/MagunSaveMomm/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
 =======
+=======
+>>>>>>> parent of d502bcc8... remake scene1
       <HintPath>H:/Ninja/MagunSaveMomm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
@@ -655,6 +665,9 @@
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>H:/Ninja/MagunSaveMomm/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+<<<<<<< HEAD
+>>>>>>> parent of d502bcc8... remake scene1
+=======
 >>>>>>> parent of d502bcc8... remake scene1
     </Reference>
   </ItemGroup>
