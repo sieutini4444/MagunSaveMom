@@ -54,6 +54,7 @@ public class Mover : MonoBehaviour
                 }
             }
         }
+<<<<<<< HEAD:Assets/Script/Mover.cs
 <<<<<<< HEAD:Assets/Mover.cs
 
         if (Input.GetKey(KeyCode.DownArrow) && grounded)
@@ -81,6 +82,8 @@ public class Mover : MonoBehaviour
         }      
 =======
 >>>>>>> parent of d502bcc8... remake scene1:Assets/Script/Mover.cs
+=======
+>>>>>>> parent of d502bcc8... remake scene1:Assets/Mover.cs
     }
 
     [System.Obsolete]
