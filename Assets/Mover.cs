@@ -13,6 +13,7 @@ public class Mover : MonoBehaviour
     public Rigidbody2D r2;
     public Animator anim;
     public GameObject boxAttack;
+    public CapsuleCollider2D capCollider;
 
     public GameObject fire,fire2;
     public Transform fireSp,fireSp2;
@@ -58,9 +59,14 @@ public class Mover : MonoBehaviour
         {
             anim.SetBool("crouch", true);
             anim.SetFloat("speed", 0);
+            capCollider.enabled = false;
         }
         else {
             anim.SetBool("crouch", false);
+            if (anim.GetBool("crouch") == false)
+            {
+                capCollider.enabled = true;
+            }
         }
 
         if (Input.GetKeyDown(KeyCode.LeftShift) && grounded && (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.LeftArrow)))
