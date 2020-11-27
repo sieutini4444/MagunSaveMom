@@ -12,7 +12,7 @@ public class bulletmove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        rigidbody.velocity = new Vector2(rigidbody.position.x -1, rigidbody.position.y) * speed;
+        rigidbody.velocity = new Vector2(rigidbody.position.x, rigidbody.position.y) * speed*-1/10;
     }
 
     // Update is called once per frame

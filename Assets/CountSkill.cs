@@ -15,26 +15,31 @@ public class CountSkill : MonoBehaviour
     public int numOfFire;
     public float kz;
     public int countStrike;
-
+    string str;
     // Start is called before the first frame update
     void Start()
     {
         skillFire.text = "3";
-        skillStrike.text = "0";
+        skillStrike.text = "0s";
     }
 
     // Update is called once per frame
     void Update()
     {
+        str = countStrike.ToString();
         if (kz > 0) {
             if (Time.time - kz >= 1) {
                 kz = Time.time;
-                countStrike = int.Parse(skillStrike.text);
+              
+                countStrike = int.Parse(str);
                 if (countStrike >= 1) {
-                    skillStrike.text = (countStrike - 1).ToString();
+                    str = (countStrike - 1).ToString();
+                    countStrike = int.Parse(str);
+                    skillStrike.text = str+"s";
                 }
                 if (countStrike == 0) {
-                    skillStrike.text = (countStrike).ToString();
+                    str = (countStrike).ToString();
+                    skillStrike.text = str+"s";
                     kz = 0;
                 }
                 
@@ -55,7 +60,7 @@ public class CountSkill : MonoBehaviour
                 {
                     skillFire.text = (numOfFire - 1).ToString();
                 }
-                if (skillFire.text == "0")
+                if (skillFire.text == "0s")
                 {
                     anim.SetBool("isSkill", false);
                     
@@ -63,9 +68,10 @@ public class CountSkill : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.D) && anim.GetBool("sword") == true && !anim.GetBool("dash") && skillStrike.text=="0")
+        if (Input.GetKeyDown(KeyCode.D) && anim.GetBool("sword") == true && !anim.GetBool("dash") && skillStrike.text=="0s")
         {
-            skillStrike.text = "10";
+            skillStrike.text = "10s";
+            countStrike = 10;
             kz = Time.time;                    
         }
     }

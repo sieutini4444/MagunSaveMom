@@ -18,22 +18,21 @@ public class MatMang : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (textHP.text.Length == 0)
-        {
-            textYouWin.gameObject.SetActive(true);
-            textYouWin.text = "YOU LOSE";
-        }
+       
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == ("Monster"))
         {
-            if (textHP.text.Length == 0)
+            if (textHP.text.Length == 1)
             {
+                string HPconlai = textHP.text.Substring(1, textHP.text.Length - 1);
+                textHP.text = HPconlai;
                 textYouWin.gameObject.SetActive(true);
                 textYouWin.text = "YOU LOSE";
+                textYouWin.enabled = true;
             }
-            else
+            else if (textHP.text.Length > 1)
             {
                 string HPconlai = textHP.text.Substring(1, textHP.text.Length - 1);
                 textHP.text = HPconlai;

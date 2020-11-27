@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class AutoDetroys : MonoBehaviour
 {
+    public float timeout = 5;
     // Start is called before the first frame update
     void Start()
     {
-        
+        Destroy(this.gameObject, timeout);
     }
 
     // Update is called once per frame
@@ -15,12 +16,9 @@ public class AutoDetroys : MonoBehaviour
     {
         
     }
-    private void OnTriggerExit2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag==("Fires")) {
-            Destroy(collision);
-            Debug.Log("1");
-        }
+        Destroy(this.gameObject);
     }
-   
+
 }

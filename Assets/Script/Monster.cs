@@ -27,7 +27,9 @@ public class Monster : MonoBehaviour
     {
         if (Time.time > nextFire)
         {
-            Instantiate(bullet, transform.position, Quaternion.identity);
+            Vector2 x = new Vector2(transform.position.x - 2, transform.position.y);
+            
+            Instantiate(bullet, x, transform.rotation);
 
             nextFire = Time.time + fireRate;
         }
