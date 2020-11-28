@@ -30,10 +30,7 @@ public class EnemyMove : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        transform.localScale = new Vector2(-Mathf.Sign(rigibody.velocity.x), Mathf.Sign(rigibody.velocity.y));
-    }
+
 
     bool IsFacing() 
     {

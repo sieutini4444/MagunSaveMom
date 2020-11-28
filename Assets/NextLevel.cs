@@ -17,6 +17,7 @@ public class NextLevel : MonoBehaviour
         if (Time.time >= waitNextLV + 1.5f && waitNextLV!=0) {
             Application.LoadLevel("Lv2");
         }
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

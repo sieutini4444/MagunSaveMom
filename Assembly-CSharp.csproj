@@ -68,8 +68,11 @@
     <Compile Include="Assets\AutoDetroys.cs" />
     <Compile Include="Assets\AutoRotate.cs" />
     <Compile Include="Assets\CountSkill.cs" />
+    <Compile Include="Assets\FireKillMonster.cs" />
     <Compile Include="Assets\FireMove.cs" />
     <Compile Include="Assets\FireMove2.cs" />
+    <Compile Include="Assets\GetFire.cs" />
+    <Compile Include="Assets\GetHP.cs" />
     <Compile Include="Assets\Grounded.cs" />
     <Compile Include="Assets\HaveSword.cs" />
     <Compile Include="Assets\MainMenu.cs" />
@@ -88,6 +91,7 @@
     <Compile Include="Assets\QPathFinder\Script\GraphData.cs" />
     <Compile Include="Assets\QPathFinder\Script\PathFinder.cs" />
     <Compile Include="Assets\QPathFinder\Script\Utils.cs" />
+    <Compile Include="Assets\ScoreTime.cs" />
     <Compile Include="Assets\Script\Bullet.cs" />
     <Compile Include="Assets\Script\CamaraFL.cs" />
     <Compile Include="Assets\Script\CharacterController2D.cs" />

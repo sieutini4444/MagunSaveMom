@@ -21,11 +21,13 @@ public class CountSkill : MonoBehaviour
     {
         skillFire.text = "3";
         skillStrike.text = "0s";
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        numOfFire = int.Parse(skillFire.text);
         str = countStrike.ToString();
         if (kz > 0) {
             if (Time.time - kz >= 1) {
@@ -59,11 +61,6 @@ public class CountSkill : MonoBehaviour
                 if (numOfFire >= 1)
                 {
                     skillFire.text = (numOfFire - 1).ToString();
-                }
-                if (skillFire.text == "0s")
-                {
-                    anim.SetBool("isSkill", false);
-                    
                 }
             }
         }

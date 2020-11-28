@@ -86,7 +86,7 @@ public class Mover : MonoBehaviour
     [System.Obsolete]
     void FixedUpdate()
     {
-        if (Input.GetKey(KeyCode.A) && !anim.GetBool("dash"))
+        if (Input.GetKey(KeyCode.A) && !anim.GetBool("dash") && !anim.GetBool("hurt"))
         {
             if (anim.GetBool("sword") == true)
             {
@@ -105,7 +105,7 @@ public class Mover : MonoBehaviour
             boxAttack.SetActive(false);
         }
 
-        if (Input.GetKey(KeyCode.S) && !anim.GetBool("dash") && countSkill.numOfFire!=0)
+        if (Input.GetKey(KeyCode.S) && !anim.GetBool("dash") && countSkill.numOfFire>=1)
         {
             anim.SetBool("isSkill", true);
             if (faceright && Time.time > timeRate && anim.GetBool("sword")==true)

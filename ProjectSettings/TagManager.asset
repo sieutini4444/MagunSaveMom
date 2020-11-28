@@ -11,6 +11,8 @@ TagManager:
   - hp
   - Monster
   - Win
+  - chet
+  - ScoreNum
   layers:
   - Default
   - TransparentFX

@@ -10,6 +10,7 @@ public class Monster : MonoBehaviour
 
     public float fireRate;
     public float nextFire;
+    public Transform bulletsp;
 
     // Start is called before the first frame update
     void Start()
@@ -29,7 +30,7 @@ public class Monster : MonoBehaviour
         {
             Vector2 x = new Vector2(transform.position.x - 2, transform.position.y);
             
-            Instantiate(bullet, x, transform.rotation);
+            Instantiate(bullet, bulletsp.position, bulletsp.rotation);
 
             nextFire = Time.time + fireRate;
         }

@@ -118,6 +118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rf2: {fileID: -1028426101847285619}
   speed: 13
+  textScoreKill: {fileID: 0}
 --- !u!61 &179175050
 BoxCollider2D:
   m_ObjectHideFlags: 0

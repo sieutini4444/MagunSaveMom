@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AutoDetroys : MonoBehaviour
 {
-    public float timeout = 5;
+    public float timeout = 0.2f;
     // Start is called before the first frame update
     void Start()
     {
