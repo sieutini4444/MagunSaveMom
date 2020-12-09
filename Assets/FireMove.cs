@@ -18,7 +18,7 @@ public class FireMove : MonoBehaviour
         rf2 = gameObject.GetComponent<Rigidbody2D>();
         fgameObjects = GameObject.FindGameObjectsWithTag("ScoreNum");
         txt = fgameObjects[0].GetComponent<Text>().text;
-        Debug.Log("Day la " + txt);
+ 
     }
 
     // Update is called once per frame
@@ -26,18 +26,21 @@ public class FireMove : MonoBehaviour
     {
             rf2.velocity = (Vector2.right)*speed;
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag != "Player")
+        int k;
+        if (collision.gameObject.tag == "Monster")
         {
-            Debug.Log(collision.gameObject.tag);
+            collision.gameObject.SetActive(false);        
+            k = int.Parse(PlayerPrefs.GetString("score"));
+            PlayerPrefs.SetString("score", (k + 10).ToString());
+          //  fgameObjects[0].GetComponent<Text>().text = (k+10).ToString();
+
             Destroy(this.gameObject);
-            if (collision.gameObject.tag == "Monster")
-            {
-                collision.gameObject.SetActive(false);
-                int k = int.Parse(fgameObjects[0].GetComponent<Text>().text);
-                fgameObjects[0].GetComponent<Text>().text = (k + 10).ToString();
-            }
+        }
+        if (collision.gameObject.tag == "Untagged") {
+            Destroy(this.gameObject);
         }
     }
 }

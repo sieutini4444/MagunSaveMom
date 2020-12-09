@@ -43,8 +43,7 @@ public class CountSkill : MonoBehaviour
                     str = (countStrike).ToString();
                     skillStrike.text = str+"s";
                     kz = 0;
-                }
-                
+                }              
             }
         }  
     }
@@ -65,7 +64,7 @@ public class CountSkill : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.D) && anim.GetBool("sword") == true && !anim.GetBool("dash") && skillStrike.text=="0s")
+        if ((Input.GetKeyDown(KeyCode.D) || anim.GetBool("isStrike")) && anim.GetBool("sword") == true && !anim.GetBool("dash") && skillStrike.text=="0s")
         {
             skillStrike.text = "10s";
             countStrike = 10;

@@ -8,6 +8,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame() 
     {
         Application.LoadLevel("Lv1");
+        PlayerPrefs.SetString("score", "0");
     }
 
     public void QuitGame() 

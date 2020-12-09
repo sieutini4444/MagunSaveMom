@@ -10,6 +10,8 @@ public class MatMang : MonoBehaviour
     public Mover Player;
     public Animator anim;
     public float checkhurt;
+
+    public GameObject amthanh;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,22 +23,16 @@ public class MatMang : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (textHP.text.Length <= 0)
-        {
-            Application.LoadLevel("GameOver");
-        }
-        if (textYouWin.text == "YOU LOSE") {
-            anim.SetBool("hurt", true);
-        }
         if (Time.time - checkhurt >= 0.5 && checkhurt != 0)
         {
             anim.SetBool("hurt", false);
             checkhurt = 0;
+            amthanh.gameObject.SetActive(false);
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == ("Monster"))
+        if (collision.gameObject.tag == ("Monster") || collision.gameObject.tag=="chet")
         {
             if (textHP.text.Length == 1)
             {
@@ -45,12 +41,16 @@ public class MatMang : MonoBehaviour
                 textYouWin.gameObject.SetActive(true);
                 textYouWin.text = "YOU LOSE";
                 textYouWin.enabled = true;
+                anim.SetBool("hurt", true);
+                amthanh.gameObject.SetActive(true);
+                Application.LoadLevel("GameOver");
             }
             else if (textHP.text.Length > 1)
             {
                 string HPconlai = textHP.text.Substring(1, textHP.text.Length - 1);
                 textHP.text = HPconlai;
                 anim.SetBool("hurt", true);
+                amthanh.gameObject.SetActive(true);
                 checkhurt = Time.time;
             }
         }
@@ -63,9 +63,10 @@ public class MatMang : MonoBehaviour
             Debug.Log(textYouWin.text.ToString());
         }
         if (collision.gameObject.tag == ("chet")) {
-            string HPconlai = textHP.text.Substring(1, textHP.text.Length - 1);
-            textHP.text = HPconlai;
-            transform.position = (new Vector2(-5, 0));
+            if (textHP.text.Length >= 1)
+            {
+                transform.position = (new Vector2(-5, 0));
+            }
         }
     }
 }

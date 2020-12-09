@@ -10,10 +10,17 @@ public class Falling : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.CompareTag("Player"))
+        if (!collision.collider.CompareTag("chet"))
         {
-            StartCoroutine(fall());
+            if (collision.collider.CompareTag("Player"))
+            {
+                StartCoroutine(fall());
+            }
         }
+        else {
+            rbody.bodyType = RigidbodyType2D.Static;
+        }
+        
     }
 
     IEnumerator fall()
